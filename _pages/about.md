@@ -20,7 +20,7 @@ I am a social neuroscientist investigating the neural correlates of complex, non
 
 The foundation of all social behaviors is the willingness to interact- both positively and negatively- with others. 
 
-
+{% twitter https://twitter.com/brandonfricker maxwidth=500 limit=5 %}
 
 
 

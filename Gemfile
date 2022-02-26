@@ -18,4 +18,6 @@ group :jekyll_plugins do
     gem 'htmlcompressor'
     gem 'htmlbeautifier'
     gem 'jekyll-pdf-embed'
+    gem 'jekyll-mermaid'
+
 end
