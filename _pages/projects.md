@@ -1,10 +1,10 @@
 ---
 layout: page
-title: projects
+title: Research Interests
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: The neural underpinnings of complex social interactions and inter-group dynamics.
 nav: true
-display_categories: [work, fun]
+display_categories: [Neuroscience]
 horizontal: false
 ---
 
