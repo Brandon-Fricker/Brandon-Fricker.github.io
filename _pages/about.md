@@ -26,7 +26,7 @@ with neural recording and manipulation techniques. I am particularly interested 
 
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[logo]: https://github.com/Brandon-Fricker/Brandon-Fricker.github.io/blob/master/assets/img/Luna%20backflip.gif?raw=true "Logo Title Text 2"
 
 {% twitter https://twitter.com/brandonfricker maxwidth=500 limit=5 %}
 
